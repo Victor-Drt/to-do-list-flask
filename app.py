@@ -5,7 +5,7 @@ autor: victor duarte
 '''
 
 from flask import Flask
-from tasks.routes import task
+from tasks.task_views import task
 from tasks.database import db
 
 app = Flask(__name__)

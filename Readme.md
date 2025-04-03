@@ -23,4 +23,3 @@ Este é um projeto de **lista de tarefas (To-Do List)** desenvolvido com **Flask
 
 - Implementação de autenticação de usuários  
 - Melhorias na interface  
-- Integração com um banco de dados  
